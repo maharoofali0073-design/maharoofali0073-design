@@ -77,6 +77,22 @@ open_to:
 
 ---
 
+## `> ls projects/`
+
+<div align="center">
+
+<a href="https://github.com/maharoofali0073-design/lead-capture-automation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maharoofali0073-design&repo=lead-capture-automation&title_color=00E5FF&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117&hide_border=true" />
+</a>
+
+</div>
+
+**📦 [Lead Capture Automation](https://github.com/maharoofali0073-design/lead-capture-automation)** — an n8n workflow that captures leads from a form, saves them to Google Sheets, auto-replies to the lead, and notifies me. Built from a real sales problem I know well.
+
+> More builds coming as I learn. 🚧
+
+---
+
 ## `> git log --my-journey`
 
 ```
@@ -84,8 +100,6 @@ open_to:
 * Earlier  Senior Sales Executive — client handling, negotiation, targets
 * Always   Curious. If it's useful, I'll figure out how to build it.
 ```
-
-> 🚧 **Projects coming soon** — I'm actively learning and will pin my builds here as they ship.
 
 ---
 
